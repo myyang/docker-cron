@@ -1,0 +1,2 @@
+* * * * * echo "hello cron" >> /var/log/service.log 2>&1
+* * * * * echo "hello cron2" >> /var/log/service.log 2>&1
